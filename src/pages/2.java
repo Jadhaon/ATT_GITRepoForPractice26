@@ -1,0 +1,12 @@
+ package pages;
+
+public class HomePage {
+
+	public void pageValidation()
+	{
+
+		System.out.println("Home page should be displayed and fixed by green user");
+
+		System.out.println("Home page should be displayed and changes fixed by PurpleUser");
+	}
+}
